@@ -1,0 +1,26 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Sour Gummy", sans-serif;
+}
+
+img {
+	width: 100px;
+}
+
+a {
+	color: white;
+	text-decoloration: none;
+	text-decoration:none;
+}
+
+.footer {
+	padding: 40px;
+	text-align: center;
+	background-color: black;
+	color: white;
+
